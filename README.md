@@ -1,4 +1,4 @@
-### Hi there 😎
+### Olá 😎
 
 Olá, meu nome é Brenno Alencar, sou um dev apaixonado por tecnologia!
 
