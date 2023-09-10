@@ -9,7 +9,7 @@ Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a 
 <a href="">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/brenno-alencar-955460256/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
