@@ -19,7 +19,7 @@ Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a 
 
 <p align="left">
  <br />
- Languages and Tools:
+ Tecnologias que eu uso no meu dia:
  </p>
  
 <br />
