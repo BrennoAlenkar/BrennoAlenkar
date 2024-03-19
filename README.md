@@ -19,7 +19,7 @@ Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a 
 
 <p align="left">
  <br />
- Tecnologias que eu uso no meu dia:
+ ## Tecnologias que eu uso no meu dia
  </p>
  
 <br />
@@ -33,3 +33,4 @@ Este é o espaço onde passo a maior parte do meu tempo onde a imaginação e a 
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
