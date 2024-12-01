@@ -1,7 +1,8 @@
 # Olá, Eu sou o Brenno Alencar 🖐️
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 <br>
+
 ## Conecte-se comigo
 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
