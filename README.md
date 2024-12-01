@@ -16,7 +16,7 @@
   <img align="center" alt="brenno-boot" height="33" width="43"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div> 
 <br>
-<h3>Minhas redes sociais</h3>
+<h3>minhas redes sociais</h3>
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
