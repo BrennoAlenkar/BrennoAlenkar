@@ -1,19 +1,9 @@
 ## Olá, Eu sou o Brenno Alencar 🖐️
-<div style="display: inline">
-  <img
-    alt="GitHub"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=BrennoAlenkar&show_icons=true&theme=dracula&include_all_commits=true"
-  />
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrennoAlenkar&show_icons=true&theme=dracula" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAlenkar&hide_progress=true&theme=dracula" width="45%" />
+</p>
 
-  <img
-    alt="GitHub"
-    height="200"
-    style="padding-left: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAlenkar&hide_progress=true"
-  />
-</div>
 
 ## Linguagens e Tecnologias
 
