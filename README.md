@@ -108,7 +108,8 @@
 
 ### 📊 Estatísticas
 
-<div display="flex">
+<p display="inline"
+  >
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -123,4 +124,4 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAlenkar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
   />
-</div>
+</p>
