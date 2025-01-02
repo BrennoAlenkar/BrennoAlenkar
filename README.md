@@ -108,7 +108,7 @@
 
 ### 📊 Estatísticas
 
-<div>
+<div display="flex">
   <img 
     align="left" 
     alt="GitHub Stats" 
