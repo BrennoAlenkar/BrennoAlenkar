@@ -108,8 +108,7 @@
 
 ### 📊 Estatísticas
 
-<p display="inline"
-  >
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
