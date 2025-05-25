@@ -1,4 +1,4 @@
-# Olá, Eu sou o Brenno Alencar 🖐️
+# Olá, eu sou o Brenno Alencar. 🖐️
 
 **`Desenvolvedor Front-End`**
 <br>
