@@ -1,6 +1,6 @@
 # Olá, eu sou o Brenno Alencar. 🖐️
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 <br>
 
 ## Conecte-se comigo
