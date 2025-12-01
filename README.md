@@ -99,7 +99,7 @@
 
 ### 📊 Estatísticas
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -114,4 +114,4 @@
     height="200" 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrennoAlencar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
   />
-</p>
+</p> -->
