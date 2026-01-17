@@ -16,7 +16,7 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
   <a href="https://github.com/BrennoAlenkar">
     <img src="https://img.shields.io/badge/GitHub-Brenno%20Alencar-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://wa.me/5562999999999">
+  <a href="https://wa.me/5562993002421">
     <img src="https://img.shields.io/badge/WhatsApp-Brenno%20Alencar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
