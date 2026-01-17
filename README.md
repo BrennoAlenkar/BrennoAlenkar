@@ -2,7 +2,7 @@
 
 🚀 **Engenheiro de Software | JavaScript & React Specialist**  
 
-Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência e negócio**.  
+Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência**.  
 Tenho forte foco em **arquitetura de software**, **performance**, **código limpo** e **soluções sustentáveis a longo prazo**.
 
 ---
