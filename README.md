@@ -12,7 +12,7 @@ Tenho forte foco em **arquitetura de software**, **performance**, **código limp
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/brenno-alencar-955460256/" target="_blank">
+  <a href="https://www.linkedin.com/in/brenno-alencar-955460256/">
     <img src="https://img.shields.io/badge/LinkedIn-Brenno%20Alencar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5562993002421">
