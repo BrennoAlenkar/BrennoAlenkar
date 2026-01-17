@@ -18,6 +18,7 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
   </a>
 </p>
 
+---
 
 ## 🛠️ Stack Tecnológica
 
@@ -41,10 +42,6 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-<!--## 📊 Estatísticas do GitHub -->
 
 ---
 
