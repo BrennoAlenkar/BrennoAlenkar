@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Herbert Souza
+# Olá 👋, eu sou Brenno Alencar
 
 🚀 **Engenheiro de Software | Especialista em JavaScript, React.js.**  
 
