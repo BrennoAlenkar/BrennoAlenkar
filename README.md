@@ -1,7 +1,6 @@
 # Olá 👋, eu sou Herbert Souza
 
-🚀 **Engenheiro de Software | Especialista em JavaScript, React.js, TypeScript & .NET**  
-🇧🇷 Brasil
+🚀 **Engenheiro de Software | Especialista em JavaScript, React.js.**  
 
 Eu construo **produtos escaláveis**,  **sistemas web de alta performance**.  
 Sou profundamente focado em **arquitetura, performance, código limpo e soluções**.
