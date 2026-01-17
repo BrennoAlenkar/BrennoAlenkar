@@ -1,5 +1,7 @@
 # Olá 👋, eu sou Brenno Alencar
 
+<img src="https://flagcdn.com/w20/br.png" width="20" /> Brasil
+
 🚀 **Engenheiro de Software | JavaScript & React Specialist**  
 
 Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência do usuário**.  
