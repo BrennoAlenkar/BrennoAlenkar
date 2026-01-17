@@ -1,9 +1,9 @@
 # Olá 👋, eu sou Brenno Alencar
 
-🚀 **Engenheiro de Software | Especialista em JavaScript, React.js.**  
+🚀 **Engenheiro de Software | JavaScript & React Specialist**  
 
-Eu construo **produtos escaláveis**,  **sistemas web de alta performance**.  
-Sou profundamente focado em **arquitetura, performance, código limpo e soluções**.
+Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência e negócio**.  
+Tenho forte foco em **arquitetura de software**, **performance**, **código limpo** e **soluções sustentáveis a longo prazo**.
 
 ---
 
@@ -23,16 +23,15 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 
 ---
 
-
 ## 🧠 O que eu faço
 
--   🎨 Desenvolvimento de interfaces modernas com React e JavaScript
--   ⚡ Otimização de performance no Front-end
--   🧩 Arquitetura de componentes e design systems escaláveis
--   📱 Interfaces responsivas e acessíveis (boas práticas de UX/UI)
--   🔗 Integração com APIs e consumo de dados (REST / JSON)
--   🧠 Gerenciamento de estado e fluxo da aplicação
--   📊 Dashboards interativos e visualização de dados
+- 🎨 Desenvolvimento de interfaces modernas, escaláveis e reutilizáveis com React e JavaScript
+- ⚡ Otimização de performance e experiência do usuário no Front-end
+- 🧩 Arquitetura de componentes e design systems consistentes
+- 📱 Criação de interfaces responsivas, acessíveis e orientadas a boas práticas de UX/UI
+- 🔗 Integração com APIs REST e consumo eficiente de dados
+- 🧠 Gerenciamento de estado e organização do fluxo da aplicação
+- 📊 Desenvolvimento de dashboards interativos e visualização de dados
 
 ---
 
@@ -66,13 +65,8 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 
 ---
 
-<!-- <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p> -->
-
 ## 🚀 Filosofia
 
-> _"Código não é apenas sobre resolver problemas.  
-> É sobre construir soluções que escalam, duram e geram valor real."_
+> _"Código não é apenas sobre funcionar.  
+> É sobre construir soluções bem arquitetadas, escaláveis e que geram valor real para o negócio."_
 
