@@ -1,11 +1,11 @@
 # Olá 👋, eu sou Brenno Alencar
 
 🚀 **Engenheiro de Software | JavaScript & React Specialist**  
+🇧🇷 Brasil
 
 Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência do usuário**.  
 Tenho forte foco em **arquitetura de software**, **performance**, **código limpo** e **soluções sustentáveis a longo prazo**.
 
-🇧🇷 Brasil
 ---
 
 ## 🌐 Onde me encontrar
