@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Brenno Alencar
 
-🇧🇷 **Brasil**
+![Brasil](https://img.shields.io/badge/Brasil-🇧🇷-green)
 
 🚀 **Engenheiro de Software | JavaScript & React Specialist**  
 
