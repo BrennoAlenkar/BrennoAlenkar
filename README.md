@@ -56,6 +56,8 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 
 ## 📊 Estatísticas do GitHub
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <p align="left">
   <a href="https://github.com/BrennoAlenkar">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrennoAlenkar&show_icons=true&theme=tokyonight&count_private=true" />
