@@ -44,7 +44,7 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!--## 📊 Estatísticas do GitHub -->
 
 ---
 
