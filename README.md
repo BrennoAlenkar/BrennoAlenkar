@@ -10,11 +10,11 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/BrennoAlenkar">
-    <img src="https://img.shields.io/badge/GitHub-Brenno%20Alencar-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/brenno-alencar-955460256/">
     <img src="https://img.shields.io/badge/LinkedIn-Brenno%20Alencar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/BrennoAlenkar">
+    <img src="https://img.shields.io/badge/GitHub-Brenno%20Alencar-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 ---
