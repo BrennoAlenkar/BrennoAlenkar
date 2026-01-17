@@ -1,7 +1,5 @@
 # Olá 👋, eu sou Brenno Alencar
 
-br brasil
-
 🚀 **Engenheiro de Software | Especialista em JavaScript, React.js.**  
 
 Eu construo **produtos escaláveis**,  **sistemas web de alta performance**.  
