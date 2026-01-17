@@ -17,17 +17,7 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
     <img src="https://img.shields.io/badge/GitHub-Brenno%20Alencar-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
----
 
-## 🧠 O que eu faço
-
-- ⚡ Otimização de performance
-- 🧩 Arquitetura limpa e design de sistemas
-- 🔐 APIs seguras e autenticação
-- 🤖 Automação e integrações
-- 📊 Dashboards e análises de dados
-
----
 
 ## 🛠️ Stack Tecnológica
 
