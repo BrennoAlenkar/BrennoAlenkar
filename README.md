@@ -2,7 +2,7 @@
 
 🚀 **Engenheiro de Software | JavaScript & React Specialist**  
 
-Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência**.  
+Construo **produtos escaláveis**, **aplicações web de alta performance** e **interfaces orientadas a experiência do usuário**.  
 Tenho forte foco em **arquitetura de software**, **performance**, **código limpo** e **soluções sustentáveis a longo prazo**.
 
 ---
@@ -67,6 +67,6 @@ Tenho forte foco em **arquitetura de software**, **performance**, **código limp
 
 ## 🚀 Filosofia
 
-> _"Código não é apenas sobre funcionar.  
-> É sobre construir soluções bem arquitetadas, escaláveis e que geram valor real para o negócio."_
+> _"Código não é apenas sobre resolver problemas.  
+> É sobre construir soluções que escalam, duram e geram valor real."_
 
