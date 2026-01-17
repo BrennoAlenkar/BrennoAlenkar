@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Brenno Alencar
+# Olá 👋, eu sou Brenno Alencar 🇧🇷
 
 br brasil
 
