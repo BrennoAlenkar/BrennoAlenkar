@@ -14,9 +14,13 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
   </a>
   <a href="https://instagram.com/oreidosites">
   </a>
+  <a href="https://www.tiktok.com/@oreidosites">
+  </a>
   <a href="https://www.youtube.com/@oreidosites">
+    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
