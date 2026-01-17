@@ -20,6 +20,19 @@ Sou profundamente focado em **arquitetura, performance, código limpo e soluçõ
 
 ---
 
+
+## 🧠 O que eu faço
+
+-   🎨 Desenvolvimento de interfaces modernas com React e JavaScript
+-   ⚡ Otimização de performance no Front-end
+-   🧩 Arquitetura de componentes e design systems escaláveis
+-   📱 Interfaces responsivas e acessíveis (boas práticas de UX/UI)
+-   🔗 Integração com APIs e consumo de dados (REST / JSON)
+-   🧠 Gerenciamento de estado e fluxo da aplicação
+-   📊 Dashboards interativos e visualização de dados
+
+---
+
 ## 🛠️ Stack Tecnológica
 
 ### Frontend
