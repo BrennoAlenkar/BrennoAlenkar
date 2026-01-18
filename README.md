@@ -12,13 +12,13 @@ Tenho forte foco em **arquitetura de software**, **performance**, **código limp
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brenno-alencar-955460256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Brenno%20Alencar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/5562993002421">
-    <img src="https://img.shields.io/badge/WhatsApp-Brenno%20Alencar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-   <a href="mailto:brennoalencar79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brennoalencar79%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:brennoalencar79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
