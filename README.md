@@ -17,8 +17,8 @@ Tenho forte foco em **arquitetura de software**, **performance**, **código limp
   <a href="https://wa.me/5562993002421">
     <img src="https://img.shields.io/badge/WhatsApp-Brenno%20Alencar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/BrennoAlenkar">
-    <img src="https://img.shields.io/badge/GitHub-Brenno%20Alencar-181717?style=for-the-badge&logo=github" />
+   <a href="mailto:brennoalencar79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-brennoalencar79%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
