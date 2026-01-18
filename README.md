@@ -1,20 +1,20 @@
-# Hi 👋, I'm Brenno Alencar
+# Olá 👋, eu sou Brenno Alencar
 
-🚀 **Software Engineer | JavaScript & React Specialist**  
-🇧🇷 Brazil
+🚀 *Engenheiro de Software | JavaScript & React Specialist*  
+🇧🇷 Brasil
 
-I build **scalable products**, **high-performance web applications**, and **user-experience-driven interfaces**.  
-I have a strong focus on **software architecture**, **performance**, **clean code**, and **long-term sustainable solutions**.
+Construo *produtos escaláveis, **aplicações web de alta performance* e *interfaces orientadas à experiência do usuário*.  
+Tenho forte foco em *arquitetura de software, **performance, **código limpo* e *soluções sustentáveis a longo prazo*.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brenno-alencar-955460256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:brennoalencar79@gmail.com">
+   <a href="mailto:brennoalencar79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/5562993002421">
@@ -24,19 +24,19 @@ I have a strong focus on **software architecture**, **performance**, **clean cod
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
-- 🎨 Build modern, scalable, and reusable user interfaces using React and JavaScript
-- ⚡ Optimize front-end performance and user experience
-- 🧩 Design component architectures and consistent design systems
-- 📱 Develop responsive, accessible, and UX/UI best-practice-oriented interfaces
-- 🔗 Integrate REST APIs and efficiently consume data
-- 🧠 Manage application state and organize data flow
-- 📊 Create interactive dashboards and data visualizations
+- 🎨 Desenvolvimento de interfaces modernas, escaláveis e reutilizáveis com React e JavaScript
+- ⚡ Otimização de performance e experiência do usuário no Front-end
+- 🧩 Arquitetura de componentes e design systems consistentes
+- 📱 Criação de interfaces responsivas, acessíveis e orientadas a boas práticas de UX/UI
+- 🔗 Integração com APIs REST e consumo eficiente de dados
+- 🧠 Gerenciamento de estado e organização do fluxo da aplicação
+- 📊 Desenvolvimento de dashboards interativos e visualização de dados
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
 ### Frontend
 
@@ -57,7 +57,7 @@ I have a strong focus on **software architecture**, **performance**, **clean cod
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### DevOps & Tools
+### DevOps & Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
@@ -66,6 +66,7 @@ I have a strong focus on **software architecture**, **performance**, **clean cod
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -73,9 +74,7 @@ I have a strong focus on **software architecture**, **performance**, **clean cod
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAlenkar&layout=compact&theme=tokyonight" />
 </p>
 
----
+## 🚀 Filosofia
 
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It’s about building solutions that scale, last, and generate real value."_
+> _"Código não é apenas sobre resolver problemas.  
+> É sobre construir soluções que escalam, duram e geram valor real."_
