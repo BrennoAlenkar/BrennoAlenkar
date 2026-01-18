@@ -70,7 +70,7 @@ Tenho forte foco em *arquitetura de software, **performance, **código limpo* e 
 ---
 
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrennoAlenkar&show_icons=true&theme=tokyonight&count_private=true" />
