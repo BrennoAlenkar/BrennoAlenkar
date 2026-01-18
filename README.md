@@ -29,11 +29,11 @@ Tenho forte foco em **arquitetura de software**, **performance**, **código limp
 
 ## 🧠 O que eu faço
 
-- 🎨 Desenvolvimento de interfaces modernas, escaláveis e reutilizáveis com React e JavaScript
-- ⚡ Otimização de performance e experiência do usuário no Front-end
+- 🎨 Desenvolvimento de interfaces modernas, **escaláveis e reutilizáveis com React e JavaScript**
+- ⚡ Otimização de performance e experiência do usuário no **Front-end**
 - 🧩 Arquitetura de componentes e design systems consistentes
-- 📱 Criação de interfaces responsivas, acessíveis e orientadas a boas práticas de UX/UI
-- 🔗 Integração com APIs REST e consumo eficiente de dados
+- 📱 Criação de interfaces responsivas, acessíveis e orientadas a boas práticas de **UX/UI**
+- 🔗 Integração com **APIs REST** e consumo eficiente de dados
 - 🧠 Gerenciamento de estado e organização do fluxo da aplicação
 - 📊 Desenvolvimento de dashboards interativos e visualização de dados
 
