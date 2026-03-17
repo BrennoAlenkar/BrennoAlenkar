@@ -69,14 +69,13 @@ Tenho forte foco em **arquitetura de software**, **performance**, **código limp
 
 ---
 
-<!--
 ## 📊 Estatísticas
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrennoAlenkar&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAlencar&layout=compact&theme=tokyonight" />
 </p>
--->
+
 ## 🚀 Filosofia
 
 > _"Código não é apenas sobre resolver problemas.  
