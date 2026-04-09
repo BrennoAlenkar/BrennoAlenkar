@@ -3,8 +3,8 @@
 🚀 **Engenheiro de Software | Especialista em Front-end | JavaScript & React**  
 🇧🇷 Brazil
 
-Eu desenvolvo produtos escaláveis, aplicações web de alta performance e interfaces orientadas à experiência do usuário.
-Tenho forte foco em arquitetura de software, performance, código limpo e soluções sustentáveis a longo prazo.
+Eu desenvolvo produtos **escaláveis**, **aplicações web de alta performance e interfaces orientadas à experiência do usuário**.
+Tenho forte foco em **arquitetura de software**, performance, **código limpo** e soluções sustentáveis a longo prazo.
 
 ---
 
@@ -29,13 +29,13 @@ Tenho forte foco em arquitetura de software, performance, código limpo e soluç
 
 ## 🧠 O que eu faço
 
-- 🎨 Desenvolvimento de interfaces modernas, escaláveis e reutilizáveis usando React e JavaScript
-- ⚡ Otimização de performance e melhorias na experiência do usuário no Front-end
-- 🧩 Component architecture and consistent design systems
-- 📱 Arquitetura de componentes e construção de design systems consistentes
-- 🔗 Integração com APIs REST e consumo eficiente de dados
+- 🎨 Desenvolvimento de interfaces modernas, **escaláveis** e reutilizáveis usando **React e JavaScript**
+- ⚡ Otimização de **performance** e melhorias na **experiência do usuário** no Front-end
+- 🧩 Arquitetura de **componentes** e construção de **design systems consistentes**
+- 📱 Criação de interfaces **responsivas** e acessíveis seguindo boas **práticas de UX/UI**
+- 🔗 Integração com **APIs REST** e consumo eficiente de dados
 - 🧠 Gerenciamento de estado e organização do fluxo da aplicação
-- 📊 Desenvolvimento de dashboards interativos e visualização de dados
+- 📊 Desenvolvimento de **dashboards interativos** e visualização de dados
 
 ---
 
