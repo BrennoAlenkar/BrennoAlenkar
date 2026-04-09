@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Brenno Alencar
 
-🚀 **Engenheiro de Software | Especialista em Front-end | JavaScript & React**  
+🚀 **Desenvolvedor Front-end | Especialista em Front-end | JavaScript & React**  
 🇧🇷 Brazil
 
 Eu desenvolvo produtos **escaláveis, aplicações web de alta performance e interfaces orientadas à experiência do usuário**.
