@@ -4,6 +4,7 @@
 🇧🇷 Brazil
 
 Eu desenvolvo produtos **escaláveis, aplicações web de alta performance e interfaces orientadas à experiência do usuário**.
+
 Tenho forte foco em **arquitetura de software, performance, código limpo e soluções sustentáveis a longo prazo**.
 
 ---
