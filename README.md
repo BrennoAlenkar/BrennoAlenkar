@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&size=28&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Brenno+Alencar;Front-end+Engineer;React+%26+Specialist" alt="Typing SVG" />
+<p align="start">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&size=28&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Brenno+Alencar;Front-end+Engineer;React+Specialist" alt="Typing SVG" />
 </p>
 
 
