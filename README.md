@@ -1,4 +1,10 @@
-# Olá 👋, eu sou Brenno Alencar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+👋,+eu+sou+Brenno+Alencar;Front-end+Engineer;React+Specialist;UI/UX+Designer&font=Fira+Code&center=true&width=500&height=60&color=58a6ff&vCenter=true&pause=1000&size=22" />
+</p>
 
 🚀 **Desenvolvedor de Software | Especialista em Front-end | JavaScript & React**  
 🇧🇷 Brazil
