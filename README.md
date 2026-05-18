@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header" />
+  <img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&height=60&size=22&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Brenno+Alencar;Front-end+Engineer;React+Specialist;UI%2FUX+Designer" />
 </p>
 
 <p align="center">
