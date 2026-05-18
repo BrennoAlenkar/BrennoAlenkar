@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F5FF0&height=120&section=header" />
+</p>
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&pause=100&color=FFFFFF&center=false&vCenter=true&width=600&height=70&size=28&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Brenno+Alencar;Front-end+Engineer;React+Specialist;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
