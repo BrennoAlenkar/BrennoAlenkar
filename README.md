@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Software | Especialista em Front-end | JavaScript & React**  
 🇧🇷 Brazil
 
-Construo produtos escaláveis, aplicações web de alta performance e interfaces centradas na experiência do usuário.
+Construo produtos escaláveis, **aplicações web de alta performance e interfaces centradas na experiência do usuário**.
 
 ---
 
