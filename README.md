@@ -35,13 +35,13 @@ Construo produtos escaláveis, **aplicações web de alta performance e interfac
 
 ## 🧠 O que eu faço
 
-- 🎨 Desenvolvimento de interfaces modernas, **escaláveis e reutilizáveis usando React e JavaScript**
-- ⚡ **Otimização de performance e melhorias na experiência do usuário** no Front-end
-- 🧩 **Arquitetura de componentes e construção de design systems consistentes**
-- 📱 Criação de interfaces **responsivas e acessíveis seguindo boas práticas de UX/UI**
-- 🔗 **Integração com APIs REST e consumo eficiente de dados**
-- 🧠 **Gerenciamento de estado e organização do fluxo da aplicação**
-- 📊 Desenvolvimento de dashboards interativos e visualização de dados
+- 🎨 Desenvolvimento de interfaces complexas com **React, Next.js e TypeScript** — componentes reutilizáveis, design systems e arquitetura de front-end escalável
+- ⚡ Diagnóstico e resolução de **gargalos de performance**: renderização, lazy loading, memoização, otimização de queries e bundle size
+- 🔐 Implementação de **autenticação, autorização e controle de acesso** por perfil em aplicações com múltiplos níveis de usuário
+- 📱 Interfaces **responsivas e acessíveis**, com foco em mobile-first e consistência entre navegadores e dispositivos
+- 🔗 Integração com **APIs REST** — consumo eficiente de dados, tratamento de erros e sincronização entre sistemas
+- 🧠 Gerenciamento de estado com **Redux, Context API e React Query**, organizando o fluxo de dados de forma previsível e testável
+- 📊 Desenvolvimento de **dashboards interativos e mapas geográficos** integrados a APIs externas para visualização de dados em tempo real
 
 ---
 
