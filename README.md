@@ -7,7 +7,7 @@
 </p>
 
 
-🚀 **Desenvolvedor Front-end | React Specialist**  
+🚀 **Desenvolvedor Front-end Especialista em React | Next.js | TypeScript | Foco em Performance, Escalabilidade e UX**  
 🇧🇷 Brazil
 
 Construo produtos escaláveis, **aplicações web de alta performance e interfaces centradas na experiência do usuário**.
