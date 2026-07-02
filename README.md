@@ -7,7 +7,7 @@
 </p>
 
 
-🚀 **Desenvolvedor de Software | Especialista em Front-end | JavaScript & React**  
+🚀 **Desenvolvedor Front-end | Especialista em React**  
 🇧🇷 Brazil
 
 Construo produtos escaláveis, **aplicações web de alta performance e interfaces centradas na experiência do usuário**.
