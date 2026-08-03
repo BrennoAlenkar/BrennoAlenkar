@@ -1,25 +1,27 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&pause=100&color=FFFFFF&center=false&vCenter=true&width=600&height=70&size=28&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Brenno+Alencar;Front-end+Engineer;React+Specialist;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&pause=100&color=FFFFFF&center=false&vCenter=true&width=600&height=70&size=28&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+Brenno+Alencar;Desenvolvedor+Front-end;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
+🚀 **Desenvolvedor Front-end | React · Next.js · TypeScript | Foco em Performance, Escalabilidade e UX**
+🇧🇷 Goiânia, GO — aberto a vagas remotas e híbridas
 
-🚀 **Desenvolvedor Front-end Especialista em React | Next.js | TypeScript | Foco em Performance, Escalabilidade e UX**  
-🇧🇷 Brazil
-
-Construo produtos escaláveis, **aplicações web de alta performance e interfaces centradas na experiência do usuário**.
+Construo aplicações web responsivas e de alta performance, com componentização, Clean Code e atenção real à experiência do usuário.
 
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/brenno-alencar-955460256/">
+  <a href="https://www.linkedin.com/in/brenno-alencar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://brenno-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://wa.me/5562993002421">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-   <a href="mailto:brennoalencar79@gmail.com">
+  <a href="mailto:brennoalencar79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/brenno_alencaar/">
@@ -35,9 +37,34 @@ Construo produtos escaláveis, **aplicações web de alta performance e interfac
 - ⚡ Identifico e resolvo **gargalos de performance** no front-end: renderização, lazy loading, queries e estado
 - 🧩 Estruturo projetos com **arquitetura de componentes limpa** e padrões que escalam com o time
 - 📱 Desenvolvo interfaces **responsivas e acessíveis**, mobile-first, com atenção real a UX
-- 🔗 Integro **APIs REST** e construo back-ends com Node.js, Express e PHP quando o projeto precisa
-- 🔐 Implemento **autenticação, controle de acesso e segurança** de ponta a ponta
-- 📊 Crio dashboards interativos e **visualizações de dados** integradas a APIs geográficas e externas
+- 🔗 Integro **APIs REST** e construo back-ends de apoio com Node.js, Express e PHP quando o projeto precisa
+- 🔐 Implemento **autenticação (JWT) e controle de acesso** por perfil de usuário
+- 🧪 Escrevo **testes automatizados** (Jest, Vitest) para prevenir regressões em produção
+- 📊 Crio dashboards e **mapas interativos** integrados a APIs geográficas e externas (Leaflet)
+
+---
+
+## 💼 Experiência
+
+- **GVD Soluções Inteligentes** — Desenvolvedor Full-Stack (foco Front-end) · Fev/2025 – Mar/2026
+  Plataforma Agtech com ~8.500 a 9.000 usuários. Otimização de front-end e queries MySQL, reduzindo o tempo de carregamento em 20-30%.
+- **CORE Tecnologia** — Desenvolvedor Front-end (Estágio) · Fev/2024 – Jan/2025
+  Sistemas internos de Contact Center, Telemarketing e Cobrança. Mais de 5 sistemas em produção.
+- **Freelance e Projetos Pessoais** · Dez/2022 – Jan/2024
+  Mais de 8 aplicações front-end publicadas com deploy em produção via Vercel.
+
+---
+
+## 🚀 Projetos em destaque
+
+**[Home Decor Studio](https://github.com/BrennoAlenkar/home-decor-studio)** — React · TypeScript
+Plataforma web de decoração de interiores, com design responsivo e foco em performance de renderização.
+
+**[DevShop E-commerce](https://github.com/BrennoAlenkar/devshop-ecommerce)** — JavaScript (ES6+) · API REST
+E-commerce de smartphones com listagem dinâmica de produtos e carrinho de compras.
+
+**[Portfólio Pessoal](https://brenno-portfolio.vercel.app)** — Next.js · Tailwind CSS · Framer Motion
+Portfólio com animações fluidas, tema escuro e design responsivo. [Repositório](https://github.com/BrennoAlenkar/brenno-portfolio)
 
 ---
 
@@ -56,12 +83,18 @@ Construo produtos escaláveis, **aplicações web de alta performance e interfac
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+### Backend (apoio)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Testes
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 ### DevOps & Ferramentas
 
@@ -81,5 +114,5 @@ Construo produtos escaláveis, **aplicações web de alta performance e interfac
 
 ## 🚀 Filosofia
 
-> _"Código não é apenas sobre resolver problemas.  
+> _"Código não é apenas sobre resolver problemas.
 > É sobre construir soluções que escalam, duram e entregam valor real."_
