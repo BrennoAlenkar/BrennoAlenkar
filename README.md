@@ -47,7 +47,7 @@ Construo aplicações web responsivas e de alta performance, com componentizaç�
 ## 💼 Experiência
 
 - **GVD Soluções Inteligentes** — Desenvolvedor Full-Stack (foco Front-end) · Fev/2025 – Mar/2026
-  Plataforma Agtech com ~8.500 a 9.000 usuários. Otimização de front-end e queries MySQL, reduzindo o tempo de carregamento em 20-30%.
+  Plataforma Agtech com 8.500 a 9.000 usuários. Otimização de front-end e queries MySQL, reduzindo o tempo de carregamento em 20-30%.
 - **CORE Tecnologia** — Desenvolvedor Front-end (Estágio) · Fev/2024 – Jan/2025
   Sistemas internos de Contact Center, Telemarketing e Cobrança. Mais de 5 sistemas em produção.
 - **Freelance e Projetos Pessoais** · Dez/2022 – Jan/2024
