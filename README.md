@@ -1,6 +1,7 @@
 # Olá 👋, eu sou Brenno Alencar
 
 🚀 **Desenvolvedor Front-end | React · Next.js · TypeScript | Interfaces responsivas e acessíveis**
+<br>
 🇧🇷 Goiânia, GO — aberto a vagas remotas e híbridas
 
 Construo aplicações web responsivas e de alta performance, com componentização, Clean Code e atenção real à experiência do usuário.
