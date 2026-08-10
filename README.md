@@ -105,8 +105,3 @@ Portfólio com animações fluidas, tema escuro e design responsivo. [Repositór
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-alencar&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Filosofia
-
-> _"Código não é apenas sobre resolver problemas.
-> É sobre construir soluções que escalam, duram e entregam valor real."_
--->
