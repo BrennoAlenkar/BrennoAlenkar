@@ -107,8 +107,8 @@ Portfólio com animações fluidas, tema escuro e design responsivo. [Repositór
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrennoAlenkar&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAlenkar&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brenno-alencar&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno-alencar&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Filosofia
